@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Name : Mihovil
+=======
+Name : Mihovil
+>>>>>>> 829112969c2a73aa415767bfa74148d53d16dfc9
+Surname : Staglicic
